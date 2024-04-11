@@ -1,7 +1,7 @@
 # Walk-In Banking
 
 ## Overview:
-This is samle of CLI Banking System which consists of full program structure and just a the main logic from the 2 versions of the program: with functions and in OOP. The full versions of the program and the process of developing them step by step are in private repositories and are available on request.   
+This is samle of CLI Banking System which consists of full program structure and just the main logic from the 2 versions of the program: with functions and in OOP. The full versions of the program and the process of developing them step by step are in private repositories and are available on request.   
 This is personal banking module that assumes the user is already registered and have an account. You access your 
 account by simply typing your username, email and pass of choice to log in, which are saved in a json file. 
 You add initial balance amount to your account to operate with, which amount must be at least 100.00. You can Deposit 
